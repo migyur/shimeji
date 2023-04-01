@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Shimeji-ee">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Shimeji-ee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
